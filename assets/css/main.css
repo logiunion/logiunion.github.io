@@ -1,5 +1,6 @@
 @import url(fontawesome-all.min.css);
 @import 'https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,300;0,400;0,600;1,300;1,400;1,600&display=swap';
+@import 'https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,400;0,700;1,400&display=swap';
 
 /*
 	Stellar by HTML5 UP
@@ -120,14 +121,14 @@ input, select, textarea {
 /* Type */
 
 	body {
-		background-color: #007272;
+		background-color: #935d8c;
 		color: rgba(255, 255, 255, 0.65);
 	}
 
 	body, input, select, textarea {
-		font-family: "Nunito Sans", Helvetica, sans-serif;
+		font-family: 'Nunito Sans', Helvetica, sans-serif;
 		font-size: 17pt;
-		font-weight: 300;
+		font-weight: 400;
 		line-height: 1.65;
 	}
 
@@ -170,7 +171,7 @@ input, select, textarea {
 		}
 
 	strong, b {
-		font-weight: 400;
+		font-weight: 700;
 	}
 
 	em, i {
