@@ -2506,6 +2506,8 @@ input, select, textarea {
 		list-style: none;
 		margin-left: -1em;
 		padding-left: 0;
+		flex-direction: row;
+		flex-wrap: wrap;
 	}
 
 		ul.actions li {
@@ -3787,3 +3789,21 @@ input, select, textarea {
 			}
 
 		}
+
+.language ul li {
+	padding-bottom: 1em;
+}
+
+@media screen and (max-width: 480px) {
+
+	.language ul.actions {
+		flex-direction: row;
+		flex-wrap: wrap;
+	}
+
+	.language ul.actions li {
+		width: auto;
+		padding: 1em 0.5em !important;
+	}
+
+}
