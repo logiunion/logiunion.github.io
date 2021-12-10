@@ -3271,6 +3271,9 @@ input, select, textarea {
 			margin: 0;
 			padding: 0;
 			list-style: none;
+			display: flex;
+			flex-direction: row;
+			justify-content: space-around;
 		}
 
 			#nav ul li {
@@ -3278,7 +3281,6 @@ input, select, textarea {
 				-webkit-transition: margin 0.2s ease;
 				-ms-transition: margin 0.2s ease;
 				transition: margin 0.2s ease;
-				display: inline-block;
 				margin: 0 0.35em;
 				padding: 0;
 				vertical-align: middle;
@@ -3325,15 +3327,23 @@ input, select, textarea {
 					font-size: 0.9em;
 				}
 
+		@media screen and (max-width: 480px) {
+			#nav {
+				max-width: calc(100% - 2em);
+			}
+		}
+
+		@media screen and (max-width: 360px) {
+			#nav {
+				max-width: 100%;
+			}
+		}
+
 		@media screen and (max-width: 736px) {
 
-			#nav {
+			#nav ul li:not(:first-child,:last-child) {
 				display: none;
 			}
-
-				#nav + #main {
-					padding-top: 0;
-				}
 
 		}
 
@@ -3790,22 +3800,56 @@ input, select, textarea {
 
 		}
 
-.language ul li {
-	padding-bottom: 1em;
+/**
+ * Custom
+ */
+
+/*.language ul li {*/
+/*	padding-bottom: 1em;*/
+/*}*/
+
+/*@media screen and (max-width: 480px) {*/
+
+/*	.language ul.actions {*/
+/*		flex-direction: row;*/
+/*		flex-wrap: wrap;*/
+/*	}*/
+
+/*	.language ul.actions li {*/
+/*		width: auto;*/
+/*		padding: 1em 0.5em !important;*/
+/*	}*/
+
+/*}*/
+
+@media screen and (min-width: 736px) {
+	#language-switcher {
+		height: 2em;
+	}
+	#language-switcher ul {
+		background-color: #f7f7f7;
+		border-radius: 0.25em;
+	}
+	body.high-contrast #language-switcher ul {
+		background-color: #939393;
+	}
 }
 
-@media screen and (max-width: 480px) {
+#language-switcher ul li:not(.active) {
+	display: none;
+}
 
-	.language ul.actions {
-		flex-direction: row;
-		flex-wrap: wrap;
-	}
+#language-switcher ul {
+	display: flex;
+	flex-direction: column;
+}
 
-	.language ul.actions li {
-		width: auto;
-		padding: 1em 0.5em !important;
-	}
+#language-switcher ul li a {
+	width: 100%;
+}
 
+#language-switcher ul:hover li {
+	display: inline;
 }
 
 #main .major h2 {
@@ -3826,4 +3870,30 @@ input, select, textarea {
 
 .translated {
 	font-size: 0.6em;
+}
+
+/**
+ * high-contrast
+ */
+
+body.high-contrast #main, body.high-contrast #nav ul li a.active {
+	color: #ffffff;
+	background: #636363;
+}
+
+body.high-contrast #main .button {
+	color: #ffffff !important;
+}
+
+body.high-contrast #main .button.primary {
+	background-color: #008080;
+}
+
+body.high-contrast #main h2 {
+	color: #ffffff;
+}
+
+body.high-contrast #nav {
+	color: #ffffff;
+	background: #939393;
 }
