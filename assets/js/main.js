@@ -57,7 +57,7 @@
 						var $this = $(this);
 
 						// External link? Bail.
-							if ($this.attr('href').charAt(0) != '#')
+							if ($this.attr('href').charAt(0) != '#' || $this.attr('href') === '#')
 								return;
 
 						// Deactivate all links.
@@ -74,12 +74,16 @@
 					.each(function() {
 
 						var	$this = $(this),
-							id = $this.attr('href'),
-							$section = $(id);
+							id = $this.attr('href');
 
 						// No section for this link? Bail.
-							if ($section.length < 1)
-								return;
+						if (id.length < 2)
+							return;
+
+						var $section = $(id);
+						// No section for this link? Bail.
+						if ($section.length < 1)
+							return;
 
 						// Scrollex.
 							$section.scrollex({
@@ -119,5 +123,20 @@
 		$('.scrolly').scrolly({
 			speed: 1000
 		});
+
+		$('#contrast-switch').click(function(event) {
+			$body.toggleClass('high-contrast');
+			event.stopPropagation();
+			return false;
+		});
+
+		if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+			$body.addClass('high-contrast');
+		}
+
+		$('#language-switcher li.active a').click(function(event) {
+			event.stopPropagation();
+			return false;
+		})
 
 })(jQuery);

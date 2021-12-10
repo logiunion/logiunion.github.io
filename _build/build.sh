@@ -9,7 +9,7 @@ for FILE in $(ls *.html); do
   else
     TARGET=$FILE
   fi
-  declare -x ACTIVE_$LANG="primary"
+  declare -x ACTIVE_$LANG="active"
   source $LANG.env
   export LANG LOGI_NAME LOGI_OPEN_LETTER LOGI_GET_INVOLVED LOGI_SIGN_LETTER LOGI_JOIN_DISCORD LOGI_FILL_SURVEY LOGI_SIGNED
   export LOGI_CONTENT=$(cat $FILE)
