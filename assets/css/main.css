@@ -3822,6 +3822,19 @@ input, select, textarea {
 
 /*}*/
 
+@media screen and (min-width: 736px) {
+	#language-switcher {
+		height: 2em;
+	}
+	#language-switcher ul {
+		background-color: #f7f7f7;
+		border-radius: 0.25em;
+	}
+	body.high-contrast #language-switcher ul {
+		background-color: #939393;
+	}
+}
+
 #language-switcher ul li:not(.active) {
 	display: none;
 }
@@ -3829,6 +3842,10 @@ input, select, textarea {
 #language-switcher ul {
 	display: flex;
 	flex-direction: column;
+}
+
+#language-switcher ul li a {
+	width: 100%;
 }
 
 #language-switcher ul:hover li {
