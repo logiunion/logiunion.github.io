@@ -3808,6 +3808,10 @@ input, select, textarea {
 
 }
 
+#main .major h2 {
+	display: block;
+}
+
 #main h2 {
 	display: flex;
 	justify-content: space-between;
