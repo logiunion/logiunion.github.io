@@ -3807,3 +3807,19 @@ input, select, textarea {
 	}
 
 }
+
+#main h2 {
+	display: flex;
+	justify-content: space-between;
+	align-items: baseline;
+}
+
+@media screen and (max-width: 800px) {
+	#main h2 {
+		flex-direction: column;
+	}
+}
+
+.translated {
+	font-size: 0.6em;
+}
