@@ -3889,7 +3889,7 @@ body.high-contrast #main .button.primary {
 	background-color: #008080;
 }
 
-body.high-contrast #main h2 {
+body.high-contrast #main h2, body.high-contrast #main strong {
 	color: #ffffff;
 }
 
