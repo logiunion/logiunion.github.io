@@ -3842,6 +3842,7 @@ input, select, textarea {
 #language-switcher ul {
 	display: flex;
 	flex-direction: column;
+	width: 9em;
 }
 
 #language-switcher ul li a {
