@@ -138,5 +138,9 @@
 			event.stopPropagation();
 			return false;
 		})
+		// Missing server side :(
+		// the active li most be first one, otherwise you click directly on it...
+		var element = $('#language-switcher li.active').detach();
+		$('#language-switcher ul').prepend(element);
 
 })(jQuery);
