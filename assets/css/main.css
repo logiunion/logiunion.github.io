@@ -3341,7 +3341,7 @@ input, select, textarea {
 
 		@media screen and (max-width: 736px) {
 
-			#nav ul li:not(:first-child,:last-child) {
+			#nav > ul > li:not(:first-child,:last-child) {
 				display: none;
 			}
 
