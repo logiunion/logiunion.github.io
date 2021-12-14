@@ -14,7 +14,7 @@ for FILE in $(ls *.html); do
   if [ "$LANG" == "cn" ]; then
     LANGCODE="zh-CN"
     LOGI_SIGN_LINK="https://wj.qq.com/s2/9440895/0d12/"
-    LOGI_SURVEY_LINK="https://docs.google.com/forms/d/e/1FAIpQLSeqspOFXUKgUm4Bm5kze859903TA-E1EC_WOCcCRQxdmfOyUg/viewform"
+    LOGI_SURVEY_LINK="https://wj.qq.com/s2/9440909/cdbf/"
   else
     LANGCODE=$LANG
     LOGI_SIGN_LINK="https://forms.gle/DLCJJRg4QLR6FHuB6"
