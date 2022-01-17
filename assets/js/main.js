@@ -143,4 +143,14 @@
 		var element = $('#language-switcher li.active').detach();
 		$('#language-switcher ul').prepend(element);
 
+    // Mailto link
+    // Select all links with the attribute 'data-gen-email'
+    var emailLinks = document.querySelectorAll('[data-gen-email]');
+    var emailAddress = atob("bWFpbHRvOkwuTy5HLkkuc2VjcmV0YXJ5QGdtYWlsLmNvbQ==");
+
+    emailLinks.forEach(link => {
+        link.onmouseover = link.ontouchstart = () => link.setAttribute('href', emailAddress);
+    });
+
+
 })(jQuery);
