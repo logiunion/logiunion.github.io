@@ -1,0 +1,35 @@
+baseURL: 'https://attrib.org/logi/'
+languageCode: 'en-us'
+title: 'L.O.G.I.'
+theme: logi
+defaultContentLanguage: en
+sectionPagesMenu: main
+languages:
+  en:
+    languageName: English
+  cy:
+    languageName: Cymraeg
+  fr:
+    languageName: Français
+  nl:
+    languageName: Nederlands
+  de:
+    languageName: Deutsch
+  it:
+    languageName: Italiano
+  es:
+    languageName: Español
+  pt:
+    languageName: Português
+  cz:
+    languageName: Čeština
+  pl:
+    languageName: Polski
+  'no':
+    languageName: Norsk
+  ru:
+    languageName: Русский
+  ja:
+    languageName: 日本語
+  cn:
+    languageName: 中文

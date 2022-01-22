@@ -1,0 +1,31 @@
+<!-- Header -->
+<header id="header" class="alt">
+    <span class="logo"><img src="{{ .Site.BaseURL }}/images/Solidarity.png" alt="" /></span>
+    <h1>L.O.G.I.</h1>
+    <p>{{ i18n "Name" }}</p>
+</header>
+
+<!-- Nav -->
+<nav id="nav">
+    <ul>
+        <li><a href="#" id="contrast-switch"><i class="fas fa-adjust"></i></a></li>
+        <li><a href="{{ .Site.BaseURL }}" class="{{ if eq (i18n "GetInvolved") .Page.Title }}active{{ end }}">{{ i18n "GetInvolved" }}</a>
+        {{ range .Site.Menus.main }}
+        <li><a href="{{ .URL }}" class="{{ if eq .Name $.Page.Title }}active{{ end }}">{{ .Name }}</a></li>
+        {{ end }}
+        <li id="language-switcher">
+            <ul>
+                <li class="active">
+                    <a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
+                </li>
+                {{ range .Translations }}
+                <li>
+                    <a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
+                </li>
+                {{ end }}
+            </ul>
+        </li>
+    </ul>
+</nav>
+<br/>
+<br/>
