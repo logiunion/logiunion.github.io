@@ -3961,6 +3961,10 @@ body.high-contrast #main a:hover {
  * Top Button
  */
 
+#top {
+	visibility: hidden;
+}
+
 #toTop {
 	position: fixed;
 	bottom: 5%;
