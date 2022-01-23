@@ -3966,6 +3966,11 @@ body.high-contrast #main a:hover {
 	bottom: 5%;
 	right: 1em;
 	border-bottom: none;
+	color: #636363;
+}
+
+body.high-contrast #toTop {
+	color: #ffffff;
 }
 
 @media screen and (min-width: 1440px) {
