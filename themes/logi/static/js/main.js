@@ -53,11 +53,12 @@
 
 		$('#contrast-switch').click(function(event) {
 			$body.toggleClass('high-contrast');
+			localStorage.setItem('high-contrast-mode', $body.hasClass('high-contrast'));
 			event.stopPropagation();
 			return false;
 		});
 
-		if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+		if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches || localStorage.getItem('high-contrast-mode') === 'true') {
 			$body.addClass('high-contrast');
 		}
 
