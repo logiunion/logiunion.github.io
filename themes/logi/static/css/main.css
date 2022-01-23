@@ -3232,6 +3232,9 @@ input, select, textarea {
 		border-top-right-radius: 0.25em;
 		cursor: default;
 		text-align: center;
+		display: flex;
+		flex-direction: row;
+		align-items: center;
 	}
 
 		#nav input, #nav select, #nav textarea {
@@ -3274,6 +3277,7 @@ input, select, textarea {
 			display: flex;
 			flex-direction: row;
 			justify-content: space-around;
+			align-items: center;
 		}
 
 			#nav ul li {
@@ -3292,7 +3296,7 @@ input, select, textarea {
 					-ms-transition: font-size 0.2s ease;
 					transition: font-size 0.2s ease;
 					display: inline-block;
-					height: 2.25em;
+					/*height: 2.25em;*/
 					line-height: 2.25em;
 					padding: 0 1.25em;
 					border: 0;
@@ -3308,6 +3312,14 @@ input, select, textarea {
 						background-color: #ffffff;
 						box-shadow: none;
 					}
+
+		#nav ul.nav {
+			flex-grow: 1;
+		}
+
+		#navbar-toggler {
+			display: none;
+		}
 
 		#nav.alt {
 			position: fixed;
@@ -3339,9 +3351,34 @@ input, select, textarea {
 			}
 		}
 
-		@media screen and (max-width: 736px) {
+		@media screen and (max-width: 900px) {
 
-			#nav > ul > li:not(:first-child,:last-child) {
+			#nav {
+				flex-direction: column-reverse;
+			}
+
+			#nav ul {
+				align-items: start;
+			}
+
+			#nav .nav, #nav .nav a {
+				width: 100%;
+			}
+
+			#navbar-toggler {
+				display: block;
+			}
+
+			#nav:has(#navbar-toggler:hover) ul.nav {
+				display: block;
+			}
+
+			#nav .nav-functions {
+				flex-grow: 1;
+				width: 100%;
+			}
+
+			#nav > ul.nav {
 				display: none;
 			}
 
@@ -3824,7 +3861,7 @@ input, select, textarea {
 
 @media screen and (min-width: 736px) {
 	#language-switcher {
-		height: 2em;
+		height: 2.25em;
 	}
 	#language-switcher ul {
 		background-color: #f7f7f7;
@@ -3835,7 +3872,7 @@ input, select, textarea {
 	}
 }
 
-#language-switcher ul li:not(.active) {
+#language-switcher ul li:not(:first-child) {
 	display: none;
 }
 
@@ -3845,7 +3882,7 @@ input, select, textarea {
 	width: 9em;
 }
 
-#language-switcher ul li a {
+#language-switcher ul li, #language-switcher ul li a {
 	width: 100%;
 }
 

@@ -7,16 +7,22 @@
 
 <!-- Nav -->
 <nav id="nav">
-    <ul>
-        <li><a href="#" id="contrast-switch"><i class="fas fa-adjust"></i></a></li>
-        <li><a href="{{ .Site.BaseURL }}" class="{{ if eq (i18n "GetInvolved") .Page.Title }}active{{ end }}">{{ i18n "GetInvolved" }}</a>
+<!--    <a class="navbar-brand" href="{{ .Site.BaseURL }}">-->
+<!--        <img src="{{ .Site.BaseURL }}/images/logoB.png" alt="" width="30" height="24">-->
+<!--        L.O.G.I.-->
+<!--    </a>-->
+    <ul class="nav">
+        <li><a href="{{ .Site.BaseURL }}" class="{{ if eq (i18n "GetInvolved") .Page.Title }}active{{ end }}">{{ i18n "GetInvolved" }}</a></li>
         {{ range .Site.Menus.main }}
         <li><a href="{{ .URL }}" class="{{ if eq .Name $.Page.Title }}active{{ end }}">{{ .Name }}</a></li>
         {{ end }}
+    </ul>
+    <ul class="nav-functions">
+        <li id="navbar-toggler"><a href="#main"><i class="fas fa-bars"></i></a></li>
         <li id="language-switcher">
             <ul>
-                <li class="active">
-                    <a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
+                <li>
+                    <a href="#main"><i class="fas fa-language"></i> {{ .Language.LanguageName }}</a>
                 </li>
                 {{ range .Translations }}
                 <li>
@@ -25,6 +31,7 @@
                 {{ end }}
             </ul>
         </li>
+        <li><a href="#" id="contrast-switch"><i class="fas fa-adjust"></i></a></li>
     </ul>
 </nav>
 <br/>

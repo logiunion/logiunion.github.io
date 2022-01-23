@@ -66,6 +66,18 @@
 			return false;
 		})
 
+		$('#navbar-toggler a').click(function (event) {
+			$('#nav .nav').toggle()
+			event.stopPropagation();
+			return false;
+		});
+
+		$(document).click(function (event) {
+			if ($('#nav .nav').is(':visible') && $('#navbar-toggler a').is(':visible')) {
+				$('#nav .nav').toggle()
+			}
+		})
+
     // Mailto link
     // Select all links with the attribute 'data-gen-email'
     var emailLinks = document.querySelectorAll('[data-gen-email]');
