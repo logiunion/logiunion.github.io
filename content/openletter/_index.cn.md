@@ -1,6 +1,7 @@
 +++
 date = 2021-12-09
 title = "公开信"
+weight = 5
 +++
 ## 亲爱的Siege Camp{{< rawhtml >}}<span class="translated" lang="en">Translated by [T-3C] HKO2006</span>{{< /rawhtml >}}
 

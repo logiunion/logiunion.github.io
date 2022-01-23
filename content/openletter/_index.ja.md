@@ -1,6 +1,7 @@
 +++
 date = 2021-12-09
 title = "公開状"
+weight = 5
 +++
 ## 親愛なるSiege Camp様へ。{{< rawhtml >}}<span class="translated" lang="en">Jakigannによって翻訳。 Community out reach, [SOM] Hands Off Mr. Spanky</span>{{< /rawhtml >}}
 

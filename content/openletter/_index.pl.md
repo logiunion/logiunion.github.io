@@ -1,6 +1,7 @@
 +++
 date = 2021-12-09
 title = "Otwarty list"
+weight = 5
 +++
 ## Drogi Siege Camp,{{< rawhtml >}}<span class="translated" lang="en">Translated by [19th] Stalek</span>{{< /rawhtml >}}
 

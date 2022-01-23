@@ -1,5 +1,6 @@
 +++
-title = "Explain"
+title = "Mission Statement"
+weight = 10
 +++
 
 {{< sectiontitle >}} Mission Statement {{< /sectiontitle>}}

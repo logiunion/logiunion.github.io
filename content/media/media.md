@@ -2,8 +2,6 @@
 title = "media"
 +++
 
-{{< sectiontitle >}}{{< translate "Press" >}}{{< /sectiontitle>}}
-
 {{% row %}}
 {{% column %}}
 

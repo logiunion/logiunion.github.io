@@ -1,6 +1,7 @@
 +++
 date = 2021-12-09
 title = "Carta Abierta"
+weight = 5
 +++
 ## Estimado Siege Camp,{{< rawhtml >}}<span class="translated" lang="en">Translated by [SOM] Odiua</span>{{< /rawhtml >}}
 

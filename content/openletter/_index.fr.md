@@ -1,6 +1,7 @@
 +++
 date = 2021-12-09
 title = "Lettre Ouverte"
+weight = 5
 +++
 ## À Siege Camp,{{< rawhtml >}}<span class="translated" lang="en">Translated by [82DK][CPA]rompafrolic</span>{{< /rawhtml >}}
 

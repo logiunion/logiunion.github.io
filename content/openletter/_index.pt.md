@@ -1,6 +1,7 @@
 +++
 date = 2021-12-09
 title = "Carta Aberta"
+weight = 5
 +++
 ## Prezada Siege Camp,{{< rawhtml >}}<span class="translated" lang="en">Translated by [141CR] Nikkhochen, Jyuppiter</span>{{< /rawhtml >}}
 

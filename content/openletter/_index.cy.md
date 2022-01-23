@@ -1,6 +1,7 @@
 +++
 date = 2021-12-09
 title = "Llythyr agored"
+weight = 5
 +++
 ## Annwyl Gamp Gwarchae,{{< rawhtml >}}<span class="translated" lang="en">Translated by [SPECR] Daisuke</span>{{< /rawhtml >}}
 

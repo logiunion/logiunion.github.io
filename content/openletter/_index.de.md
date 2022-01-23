@@ -1,6 +1,7 @@
 +++
 date = 2021-12-09
 title = "Offener Brief"
+weight = 5
 +++
 ## Sehr geehrte Damen und Herren von Siege Camp,
 

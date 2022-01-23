@@ -1,6 +1,7 @@
 +++
 date = 2021-12-09
 title = "Открытое письмо"
+weight = 5
 +++
 ## Уважаемые Siege Camp,{{< rawhtml >}}<span class="translated" lang="en">Translated by [SOM] ShadowKorsar, [RU] OrlandoGW</span>{{< /rawhtml >}}
 

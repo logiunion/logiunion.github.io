@@ -1,6 +1,7 @@
 +++
 date = 2021-12-09
 title = "Otevřený dopis"
+weight = 5
 +++
 ## Drahý vývojářský týme Siege Camp,{{< rawhtml >}}<span class="translated" lang="en">Translated by Wheatek, Rex, popoSK</span>{{< /rawhtml >}}
 

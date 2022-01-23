@@ -61,7 +61,7 @@
 			$body.addClass('high-contrast');
 		}
 
-		$('#language-switcher li.active a').click(function(event) {
+		$('#language-switcher li:first a').click(function(event) {
 			event.stopPropagation();
 			return false;
 		})

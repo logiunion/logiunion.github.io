@@ -1,6 +1,7 @@
 +++
 date = 2021-12-09
 title = "Open Brief"
+weight = 5
 +++
 ## Beste Siege Camp,{{< rawhtml >}}<span class="translated" lang="en">Translated by [SOM] †D† Lokyar</span>{{< /rawhtml >}}
 

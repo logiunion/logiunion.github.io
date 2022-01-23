@@ -1,6 +1,7 @@
 +++
 date = 2021-12-09
 title = "Open Letter"
+weight = 5
 +++
 ## Dear Siege Camp
 

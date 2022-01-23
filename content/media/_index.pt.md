@@ -1,6 +1,9 @@
 +++
 title = "Media"
+weight = 15
 +++
+
+{{< sectiontitle >}}{{< translate "Press" >}}{{< /sectiontitle>}}
 
 {{< include "media/media" >}}
 

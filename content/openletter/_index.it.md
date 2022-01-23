@@ -1,6 +1,7 @@
 +++
 date = 2021-12-09
 title = "Lettera aperta"
+weight = 5
 +++
 ## Cara Siege Camp,{{< rawhtml >}}<span class="translated" lang="en">Translated by [ITA] JakkoNexus</span>{{< /rawhtml >}}
 

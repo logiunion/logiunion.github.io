@@ -1,6 +1,7 @@
 +++
 date = 2021-12-09
 title = "Åpent brev"
+weight = 5
 +++
 ## Kjære Siege Camp,{{< rawhtml >}}<span class="translated" lang="en">Translated by Stukablyatdotcom#0042</span>{{< /rawhtml >}}
 
