@@ -33,3 +33,7 @@ languages:
     languageName: 日本語
   cn:
     languageName: 中文
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
