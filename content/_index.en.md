@@ -2,6 +2,6 @@
 title = "Get Involved"
 +++
 
-## Roundtable
+{{< sectiontitle >}}Roundtable{{< /sectiontitle>}}
 
 {{< youtube fv689YaplMo >}}

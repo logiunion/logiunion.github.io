@@ -1,4 +1,14 @@
-## Press
++++
+title = "media"
++++
+
+{{< sectiontitle >}}Press{{< /sectiontitle>}}
+
+{{< rawhtml >}}
+
+<div class="row"><div class="col-6 col-12-medium">
+
+{{< /rawhtml >}}
 
 ### English
 
@@ -20,15 +30,34 @@
 * [NewOfGames.com](https://newofgames.com/gamers-refuse-to-restock-frontline-of-wartime-mmo-foxhole-in-protest-over-state-of-recreation-eurogamer-web/)
 * [PCGamer.com](https://www.pcgamer.com/logistics-players-in-mmo-wargame-foxhole-go-on-strike/)
 
+{{< rawhtml >}}
+
+</div><div class="col-6 col-12-medium">
+
+{{< /rawhtml >}}
+
+
 ### Polski
 
 * [GRY-Online.pl](https://www.gry-online.pl/newsroom/gracze-urzadzili-strajk-w-grze-wojennej-foxhole/z2211f8)
 * [MMORPG.org.pl](https://mmorpg.org.pl/news/zobacz/w-foxhole-gracze-zajmujacy-sie-logistyka-na-polu-bitwy-strajkuja)
 * [SpidersWeb.pl](https://spidersweb.pl/2022/01/foxhole-strajk-graczy.html)
 
+{{< rawhtml >}}
+
+</div><div class="col-6 col-12-medium">
+
+{{< /rawhtml >}}
+
 ### Deutsch
 
 * [Mein-MMO.de](https://mein-mmo.de/foxhole-spieler-gewerkschaft/)
+
+{{< rawhtml >}}
+
+</div><div class="col-6 col-12-medium">
+
+{{< /rawhtml >}}
 
 ### Русский
 
@@ -36,26 +65,68 @@
 * [GoHa.Ru](https://www.goha.ru/gruppa-igrokov-v-znak-protesta-protiv-sostoyaniya-logistiki-v-voennoj-mmo-foxhole-perestala-vypolnyat-svoi-roli-degRaj)
 * [Igromania.ru](https://www.igromania.ru/news/112686/Igroki-logisty_v_MMO_Foxhole_ustroili_zabastovku_iz-za_slozhnoy_raboty.html?utm_source=dlvr.it&utm_medium=twitter)
 
+{{< rawhtml >}}
+
+</div><div class="col-6 col-12-medium">
+
+{{< /rawhtml >}}
+
 ### 日本語
 * [GameSpark.jp](https://www.gamespark.jp/article/2022/01/17/115110.html?utm_source=dlvr.it&utm_medium=twitter)
+
+{{< rawhtml >}}
+
+</div><div class="col-6 col-12-medium">
+
+{{< /rawhtml >}}
 
 ### Italiano
 * [GiocareOra.com](http://giocareora.com/i-giocatori-di-foxhole-utilizzano-i-sistemi-di-gioco-per-unirsi-contro-gli-sviluppatori/)
 
+{{< rawhtml >}}
+
+</div><div class="col-6 col-12-medium">
+
+{{< /rawhtml >}}
+
 ### Čeština
 * [iDNES.cz](https://www.idnes.cz/hry/novinky/foxhole-protest-valecna-rha-zasobovani-hry.A220118_094716_bw-novinky_srp)
+
+{{< rawhtml >}}
+
+</div><div class="col-6 col-12-medium">
+
+{{< /rawhtml >}}
 
 ### 中文
 * [4Gamers.com.tw](https://www.4gamers.com.tw/news/detail/51686/foxhole-players-launch-organised-in-game-strike-to-demand-change)
 
+{{< rawhtml >}}
+
+</div><div class="col-6 col-12-medium">
+
+{{< /rawhtml >}}
+
 ### Français
 * [JeuxOnLine.info](https://www.jeuxonline.info/actualite/60730/joueurs-logistiques-foxhole-mettent-greve)
+
+{{< rawhtml >}}
+
+</div><div class="col-6 col-12-medium">
+
+{{< /rawhtml >}}
 
 ### Português
 * [MMORPGBR.com.br](http://mmorpgbr.com.br/grupo-de-players-inicia-uma-greve-no-mmo-foxhole-congelando-diversas-atividades-e-mandando-um-belo-recado-para-os-devs/)
 
+{{< rawhtml >}}
 
-## YouTube
+</div></div>
+
+{{< /rawhtml >}}
+
+{{< sectiontitle >}}YouTube{{< /sectiontitle >}}
+
 
 {{< youtube MUnggpy1jpY "MoiDawg - Foxhole's Logistics Players are Conducting an IN-GAME Strike Against the Game's Devs" >}}
 <br/>

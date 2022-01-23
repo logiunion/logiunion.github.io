@@ -120,7 +120,7 @@ input, select, textarea {
 /* Type */
 
 	body {
-		background-color: #935d8c;
+		background-color: #314f67;
 		color: rgba(255, 255, 255, 0.65);
 	}
 
@@ -3890,13 +3890,17 @@ body.high-contrast #main .button.primary {
 	background-color: #008080;
 }
 
-body.high-contrast #main h2, body.high-contrast #main strong {
+body.high-contrast #main h1, body.high-contrast #main h2, body.high-contrast #main h3, body.high-contrast #main strong {
 	color: #ffffff;
 }
 
 body.high-contrast #nav {
 	color: #ffffff;
 	background: #939393;
+}
+
+body.high-contrast #main a:hover {
+	color: #ffffff;
 }
 
 /**

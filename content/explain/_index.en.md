@@ -2,7 +2,7 @@
 title = "Explain"
 +++
 
-## Mission Statement
+{{< sectiontitle >}} Mission Statement {{< /sectiontitle>}}
 
 The Logistics Organisation for General Improvement is a community organised and driven group, formed from a long running frustration with the approach to logistics in Foxhole.
 
