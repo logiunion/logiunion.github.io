@@ -3956,3 +3956,20 @@ body.high-contrast #main a:hover {
 	width: 100%;
 	height: 100%;
 }
+
+/**
+ * Top Button
+ */
+
+#toTop {
+	position: fixed;
+	bottom: 5%;
+	right: 1em;
+	border-bottom: none;
+}
+
+@media screen and (min-width: 1440px) {
+	#toTop {
+		right: 5%;
+	}
+}
