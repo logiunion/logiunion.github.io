@@ -2,6 +2,6 @@
 title = "Zaangażuj się"
 +++
 
-## Okrągły stół
+{{< sectiontitle >}}Okrągły stół{{< /sectiontitle>}}
 
 {{< youtube fv689YaplMo >}}

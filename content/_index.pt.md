@@ -2,6 +2,6 @@
 title = "Junte-se a Nós"
 +++
 
-## Mesa-Redonda
+{{< sectiontitle >}}Mesa-Redonda{{< /sectiontitle>}}
 
 {{< youtube fv689YaplMo >}}

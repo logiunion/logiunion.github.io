@@ -2,6 +2,6 @@
 title = "Engagiere dich"
 +++
 
-## Gesprächsrunde
+{{< sectiontitle >}}Gesprächsrunde{{< /sectiontitle>}}
 
 {{< youtube fv689YaplMo >}}

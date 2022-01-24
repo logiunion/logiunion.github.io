@@ -2,6 +2,6 @@
 title = "Участвовать"
 +++
 
-## "Круглый стол"
+{{< sectiontitle >}}"Круглый стол"{{< /sectiontitle>}}
 
 {{< youtube fv689YaplMo >}}

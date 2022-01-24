@@ -2,6 +2,6 @@
 title = "参加する"
 +++
 
-## Roundtable
+{{< sectiontitle >}}Roundtable{{< /sectiontitle>}}
 
 {{< youtube fv689YaplMo >}}

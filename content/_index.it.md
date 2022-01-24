@@ -2,6 +2,6 @@
 title = "Partetecipa"
 +++
 
-## Roundtable
+{{< sectiontitle >}}Roundtable{{< /sectiontitle>}}
 
 {{< youtube fv689YaplMo >}}

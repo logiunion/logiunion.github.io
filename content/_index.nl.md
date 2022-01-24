@@ -2,6 +2,6 @@
 title = "Raak Betrokken"
 +++
 
-## Rondetafel
+{{< sectiontitle >}}Rondetafel{{< /sectiontitle>}}
 
 {{< youtube fv689YaplMo >}}

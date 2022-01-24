@@ -2,6 +2,6 @@
 title = "Participer"
 +++
 
-## Conférence
+{{< sectiontitle >}}Conférence{{< /sectiontitle>}}
 
 {{< youtube fv689YaplMo >}}

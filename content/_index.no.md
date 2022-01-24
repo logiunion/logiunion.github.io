@@ -2,6 +2,6 @@
 title = "Bli involvert"
 +++
 
-## Konferanse
+{{< sectiontitle >}}Konferanse{{< /sectiontitle>}}
 
 {{< youtube fv689YaplMo >}}
