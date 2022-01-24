@@ -91,7 +91,6 @@ title = "media"
 
 {{< sectiontitle >}}YouTube{{< /sectiontitle >}}
 
-
 {{< youtube MUnggpy1jpY "MoiDawg - Foxhole's Logistics Players are Conducting an IN-GAME Strike Against the Game's Devs" >}}
 <br/>
 
@@ -99,4 +98,9 @@ title = "media"
 <br/>
 
 {{< youtube FRiTMqblHf8 "loadingreadyrun - XBOX Series All || CheckPoint 463" 633 >}}
+<br/>
+
+{{< sectiontitle >}}Song's of the LOGI Union{{< /sectiontitle >}}
+
+{{< youtubeplaylist PLe5ETPkAQTrkyddpB7eqa9En28gSf21f4 >}}
 <br/>
