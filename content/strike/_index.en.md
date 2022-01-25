@@ -27,6 +27,6 @@ at present, the following actions are the actions which our organisation have ag
 
 **Members caught participating in activities such as team killing, damaging friendly equipment or bases, dumping tech materials, maliciously clogging factories, trading equipment... or any other activities which would be classed as griefing under the game's TOS will be expelled from our organisation.**
 
-Finally, we do appreciate those of you who have shown solidarity on the reddit already. We encouraging anyone else interested to get involved however they can. Together we can make Foxhole a better game and community.
+Finally, we do appreciate those of you who have shown solidarity on the reddit already. We encourage anyone else interested to get involved however they can. Together we can make Foxhole a better game and community.
 
 Source: [Reddit](https://www.reddit.com/r/foxholegame/comments/s1p7uz/a_message_to_the_wider_foxhole_community_from_logi/)
