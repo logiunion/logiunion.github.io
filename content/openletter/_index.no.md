@@ -2,8 +2,10 @@
 date = 2021-12-09
 title = "Åpent brev"
 weight = 5
+reddit = "https://www.reddit.com/r/foxholegame/comments/rcnmgd/below_is_logis_open_letter_to_the_developers_with"
+translatedBy = "Stukablyatdotcom#0042"
 +++
-## Kjære Siege Camp,{{< rawhtml >}}<span class="translated" lang="en">Translated by Stukablyatdotcom#0042</span>{{< /rawhtml >}}
+## Kjære Siege Camp,
 
 Vi, De signerte, representerer Foxhole sin logistikkspillerbase, vi spenner fra de erfarte veteranerene til nykommere som kom til spillet så nært som Update 0.46. Oss alle, Colonials og Warden medlemmer like, er dedikerte til Foxhole og tror at det nåværende situasjonen av logistikk har blitt en fare til helsen av spillet.
 
@@ -32,7 +34,5 @@ Vi ber om at utviklerne gir spesefike og detaljerte tilbakemelinger innen 10. Ja
 Vi har ikke noe ønske om å forstyrre balansen I spillet, og vi har heller ikke tenkt å gjøre spillet mindre engasjerende eller morsomt for noen. Våre mål er å skape en sunn dialog mellem utviklerne og felleskapet vårt, økr oppbevaring av spillerbasen og en forbedret spillopplevelse
 
 På vegne av våre medlemmer, <br>Logistics Organisation for General Improvements (L.O.G.I.)
-
-[Discuss on Reddit](https://www.reddit.com/r/foxholegame/comments/rcnmgd/below_is_logis_open_letter_to_the_developers_with)
 
 Signert, {{< include "openletter/signatures" >}}

@@ -2,8 +2,10 @@
 date = 2021-12-09
 title = "Lettre Ouverte"
 weight = 5
+reddit = "https://www.reddit.com/r/foxholegame/comments/rcnmgd/below_is_logis_open_letter_to_the_developers_with"
+translatedBy = "[82DK][CPA]rompafrolic"
 +++
-## À Siege Camp,{{< rawhtml >}}<span class="translated" lang="en">Translated by [82DK][CPA]rompafrolic</span>{{< /rawhtml >}}
+## À Siege Camp,
 
 Nous, les signataires de cette lettre, représentons les joueurs logistique de Foxhole, que nous soyons des joueurs vétérans ou des nouveaux passionnés du jeu depuis la mise à jour 0.46. Nous tous, membres des Coloniaux et Wardens, nous considérons dédiés à Foxhole et sommes tous de l’avis que l'état actuel de la logistique met en danger l’ensemble du jeu.
 
@@ -32,7 +34,5 @@ Nous demandons que les développeurs nous fournissent une réponse précise quan
 Nous n’avons aucunement envie de déranger l'équilibre du jeu, ni de le rendre moins engageant et amusant pour les joueurs. Notre but est de créer un dialogue sain entre les développeurs et la communauté des joueurs ainsi que d’augmenter la rétention des joueurs, et améliorer l'expérience de tous ceux qui participent à Foxhole.
 
 De la part de nos membres,<br>Logistics Organisation for General Improvements (L.O.G.I.)
-
-[Discuss on Reddit](https://www.reddit.com/r/foxholegame/comments/rcnmgd/below_is_logis_open_letter_to_the_developers_with)
 
 Sous-signes, {{< include "openletter/signatures" >}}

@@ -2,8 +2,10 @@
 date = 2021-12-09
 title = "Carta Abierta"
 weight = 5
+reddit = "https://www.reddit.com/r/foxholegame/comments/rcnmgd/below_is_logis_open_letter_to_the_developers_with"
+translatedBy = "[SOM] Odiua"
 +++
-## Estimado Siege Camp,{{< rawhtml >}}<span class="translated" lang="en">Translated by [SOM] Odiua</span>{{< /rawhtml >}}
+## Estimado Siege Camp,
 
 Nosotros, Los Abajo Firmantes, representamos la base de jugadores de logísticas de Foxhole, que van desde veteranos experimentados hasta los novatos apasionados que han llegado tan recientemente como la Actualización 0.46 del juego. Todos, tanto los miembros de la facción Colonial como de la facción Warden, estamos dedicados a Foxhole y creemos que el estado actual de la logística se ha convertido en una amenaza para la salud general del juego.
 
@@ -32,7 +34,5 @@ Solicitamos que los desarrolladores brinden comentarios específicos y detallado
 No tenemos ningún deseo de alterar el equilibrio del juego, ni tenemos la intención de hacer que el juego sea menos atractivo o divertido para nadie. Nuestros objetivos son forjar un diálogo saludable	entre los desarrolladores y nuestra comunidad, una mayor retención de jugadores y una experiencia de juego mejorada.
 
 En nombre de nuestros miembros,<br>Logistics Organisation for General Improvements (L.O.G.I.)
-
-[Discuss on Reddit](https://www.reddit.com/r/foxholegame/comments/rcnmgd/below_is_logis_open_letter_to_the_developers_with)
 
 Firmado, {{< include "openletter/signatures" >}}

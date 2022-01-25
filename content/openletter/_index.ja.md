@@ -2,8 +2,10 @@
 date = 2021-12-09
 title = "公開状"
 weight = 5
+reddit = "https://www.reddit.com/r/foxholegame/comments/rcnmgd/below_is_logis_open_letter_to_the_developers_with"
+translatedBy = "Jakigann, Community out reach, [SOM] Hands Off Mr. Spanky"
 +++
-## 親愛なるSiege Camp様へ。{{< rawhtml >}}<span class="translated" lang="en">Jakigannによって翻訳。 Community out reach, [SOM] Hands Off Mr. Spanky</span>{{< /rawhtml >}}
+## 親愛なるSiege Camp様へ。
 
 我々、署名者は経験豊富なベテランからアップデート0.46の時点で到着したばかりの情熱的な新人まで、Foxholeのロジスティックプレイヤーを代表しています。コロニアルとウォーデンのメンバーを問わず、我々全員がFoxholeに献身的に取り組んでおり、ロジスティクスの現状がゲーム全体の健全性を脅かすものになっていると考えています。
 
@@ -32,7 +34,5 @@ Foxhole内の他のシステムに加えられた変更の累積的な影響に�
 私たちは、ゲームのバランスを崩したいとは思っていませんし、ゲームの魅力や楽しさを失わせたいとも思っていません。私たちの目標は、開発者とコミュニティの間で健全な対話を行い、プレイヤーの定着率を高め、ゲーム体験を向上させることです。
 
 メンバーを代表して,,<br>Logistics Organisation for General Improvements (L.O.G.I.)
-
-[Discuss on Reddit](https://www.reddit.com/r/foxholegame/comments/rcnmgd/below_is_logis_open_letter_to_the_developers_with)
 
 署名, {{< include "openletter/signatures" >}}

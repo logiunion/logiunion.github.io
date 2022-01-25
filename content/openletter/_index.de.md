@@ -2,6 +2,7 @@
 date = 2021-12-09
 title = "Offener Brief"
 weight = 5
+reddit = "https://www.reddit.com/r/foxholegame/comments/rcnmgd/below_is_logis_open_letter_to_the_developers_with"
 +++
 ## Sehr geehrte Damen und Herren von Siege Camp,
 
@@ -32,7 +33,5 @@ Wir fordern die Entwickler auf, bis zum **10. Januar 2022** ein spezifisches und
 Wir wollen weder das Gleichgewicht des Spiels stören, noch den Spielspaß beeinträchtigen oder das Spiel weniger fesselnd machen. Unser Ziel ist es, einen gesunden Dialog zwischen den Entwicklern und unserer Community zu erreichen, die Spielerbindung zu erhöhen und das Spielerlebnis zu verbessern.
 
 Im Namen unserer Mitglieder,<br>Logistics Organisation for General Improvements (L.O.G.I.)
-
-[Diskussionen auf Reddit](https://www.reddit.com/r/foxholegame/comments/rcnmgd/below_is_logis_open_letter_to_the_developers_with)
 
 Gezeichnet, {{< include "openletter/signatures" >}}

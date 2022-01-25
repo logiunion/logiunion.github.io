@@ -2,8 +2,10 @@
 date = 2021-12-09
 title = "公开信"
 weight = 5
+reddit = "https://www.reddit.com/r/foxholegame/comments/rcnmgd/below_is_logis_open_letter_to_the_developers_with"
+translatedBy = "[T-3C] HKO2006"
 +++
-## 亲爱的Siege Camp{{< rawhtml >}}<span class="translated" lang="en">Translated by [T-3C] HKO2006</span>{{< /rawhtml >}}
+## 亲爱的Siege Camp
 
 我们，签名者，代表着Foxhole后勤的玩家群体，包括经验丰富的老兵到最近0.46版本到来的热情的新人。我们所有人，包括綠軍和藍軍成员，都致力于Foxhole，并认为后勤的现状已经对游戏的整体健康构成了威胁。
 
@@ -32,7 +34,5 @@ weight = 5
 我们并不希望破坏游戏的平衡，也不打算让游戏失去吸引力或乐趣。我们的目标是在开发者和后勤玩家社群之间建立健康的对话，提高玩家的保留率，并改善游戏体验。
 
 代表我们的成员。<br>全面改善后勤组织（L.O.G.I.）
-
-[Discuss on Reddit](https://www.reddit.com/r/foxholegame/comments/rcnmgd/below_is_logis_open_letter_to_the_developers_with)
 
 签名者, {{< include "openletter/signatures" >}}

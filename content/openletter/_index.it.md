@@ -2,8 +2,10 @@
 date = 2021-12-09
 title = "Lettera aperta"
 weight = 5
+reddit = "https://www.reddit.com/r/foxholegame/comments/rcnmgd/below_is_logis_open_letter_to_the_developers_with"
+translatedBy = "[ITA] JakkoNexus"
 +++
-## Cara Siege Camp,{{< rawhtml >}}<span class="translated" lang="en">Translated by [ITA] JakkoNexus</span>{{< /rawhtml >}}
+## Cara Siege Camp,
 
 Noi, i sottoscritti, rappresentando la player base logistica di Foxhole, passando dai veterani esperti fino ai volenterosi nuovi arrivati fin dall'aggiornamento 0.46. Noi tutti, membri Colonial e membri Warden, ci siamo dedicati a Foxhole e crediamo che l'attuale stato della logistica è arrivato al punto di minacciare la "salute" generale del gioco.
 

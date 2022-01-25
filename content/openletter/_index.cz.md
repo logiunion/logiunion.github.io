@@ -2,8 +2,10 @@
 date = 2021-12-09
 title = "Otevřený dopis"
 weight = 5
+reddit = "https://www.reddit.com/r/foxholegame/comments/rcnmgd/below_is_logis_open_letter_to_the_developers_with"
+translatedBy = "Wheatek, Rex, popoSK"
 +++
-## Drahý vývojářský týme Siege Camp,{{< rawhtml >}}<span class="translated" lang="en">Translated by Wheatek, Rex, popoSK</span>{{< /rawhtml >}}
+## Drahý vývojářský týme Siege Camp,
 
 My, níže podepsaní, reprezentujeme logistickou komunitu hry Foxhole. Od zkušených veteránů po nadšené nováčky, někteří už z doby updatu 0.46. My všichni, nezáleže jestli Coloniálové nebo Wardeni, jsme zavázáni této hře a věříme, že momentální stav logistiky se stal vážnou hrozbou pro zdraví této hry.
 
@@ -32,7 +34,5 @@ Explozivní růst naší organizace ukázal, že si těchto problémů všímá 
 Není v našem zájmu narušovat balanc hry, ani nechceme hru nikomu znepříjemňovat nebo kazit. Naším cílem je vytvořit aktivní debatu mezi vývojáři a komunitou, zvýšit retenci hráčů, a zlepšit herní zážitek.
 
 Jménem našich členů,,<br>Logistics Organisation for General Improvements (L.O.G.I.)
-
-[Discuss on Reddit](https://www.reddit.com/r/foxholegame/comments/rcnmgd/below_is_logis_open_letter_to_the_developers_with)
 
 Podepsaní, {{< include "openletter/signatures" >}}

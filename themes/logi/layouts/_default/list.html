@@ -2,6 +2,19 @@
 
 <section class="main">
     <section>
+        {{ if or .Params.Reddit .Params.translatedBy }}
+        <div class="page-info">
+            {{ if .Params.Reddit }}
+            <a class="reddit-link" href="{{ .Params.Reddit }}">
+                <i class="fab fa-reddit-square"></i>
+                {{ i18n "DiscussReddit"}}
+            </a>
+            {{ end }}
+            {{ if .Params.translatedBy }}
+            <span class="translated" lang="en">Translated by {{.Params.translatedBy}}</span>
+            {{ end }}
+        </div>
+        {{ end }}
 <!--        <header class="main">-->
 <!--            {{ .Title }}-->
 <!--        </header>-->

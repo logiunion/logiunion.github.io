@@ -2,8 +2,10 @@
 date = 2021-12-09
 title = "Открытое письмо"
 weight = 5
+reddit = "https://www.reddit.com/r/foxholegame/comments/rcnmgd/below_is_logis_open_letter_to_the_developers_with"
+translatedBy = "[SOM] ShadowKorsar, [RU] OrlandoGW"
 +++
-## Уважаемые Siege Camp,{{< rawhtml >}}<span class="translated" lang="en">Translated by [SOM] ShadowKorsar, [RU] OrlandoGW</span>{{< /rawhtml >}}
+## Уважаемые Siege Camp,
 
 Мы, ниже подписанные, представляем интересы игроков Foxhole, занимающихся логистикой. Мы представляем как опытных ветеранов, так и увлеченных новичков, которые начали играть с недавнего Обновления 0.46. Мы, и Колонисты и Вардены, увлечены Foxhole, и считаем, что текущее состояние логистики стало угрозой общему здоровью игры.
 
@@ -32,7 +34,5 @@ weight = 5
 Мы не хотим нарушать баланс игры и не хотим делать игру менее увлекательной или веселой для игроков. Наша цель - наладить здоровый диалог между разработчиками и игровым сообществом, уменьшить отток игроков и улучшить их внутриигровой опыт.
 
 От лица наших членов,<br>Логистическая Организация за Генеральные Изменения (L.O.G.I.)
-
-[Discuss on Reddit](https://www.reddit.com/r/foxholegame/comments/rcnmgd/below_is_logis_open_letter_to_the_developers_with)
 
 Подписано, {{< include "openletter/signatures" >}}

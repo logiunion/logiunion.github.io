@@ -2,8 +2,10 @@
 date = 2021-12-09
 title = "Otwarty list"
 weight = 5
+reddit = "https://www.reddit.com/r/foxholegame/comments/rcnmgd/below_is_logis_open_letter_to_the_developers_with"
+translatedBy = "[19th] Stalek"
 +++
-## Drogi Siege Camp,{{< rawhtml >}}<span class="translated" lang="en">Translated by [19th] Stalek</span>{{< /rawhtml >}}
+## Drogi Siege Camp,
 
 My reprezentujemy logistyczną część graczy Foxhole od doświadczonych weteranów do namiętnych nowych graczy którzy przybyli tak niedawno jak aktualizacja 0.46. My wszyscy, Colonialsi i Wardensi jednakowo jesteśmy dedykowani do Foxhola i wierzymy, że aktualny stan logistyki stał się zagrożeniem do ogólnego stanu gry.
 
@@ -43,7 +45,5 @@ Nie mamy zamiaru zakłócić balansu gry. Nie mamy zamiaru też na zrobienę gry
     społecznością, zwiększona pozostawalność graczy i polepszone doświadzczenie z gry.
 
 W imieniu naszych członków,<br>Logistics Organisation for General Improvements (L.O.G.I.)
-
-[Discuss on Reddit](https://www.reddit.com/r/foxholegame/comments/rcnmgd/below_is_logis_open_letter_to_the_developers_with)
 
 Podpisano, {{< include "openletter/signatures" >}}

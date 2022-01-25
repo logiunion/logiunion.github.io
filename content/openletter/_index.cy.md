@@ -2,8 +2,10 @@
 date = 2021-12-09
 title = "Llythyr agored"
 weight = 5
+reddit = "https://www.reddit.com/r/foxholegame/comments/rcnmgd/below_is_logis_open_letter_to_the_developers_with"
+translatedBy = "[SPECR] Daisuke"
 +++
-## Annwyl Gamp Gwarchae,{{< rawhtml >}}<span class="translated" lang="en">Translated by [SPECR] Daisuke</span>{{< /rawhtml >}}
+## Annwyl Gamp Gwarchae,
 
 Rydym ni, y Rhai sydd wedi llofnodi isod, yn cynrychioli sylfaen chwaraewyr logistaidd Foxhole, yn amrywio o'r profiadol cyn-filwyr i newydd-ddyfodiaid angerddol sydd wedi cyrraedd mor ddiweddar â Diweddariad 0.46. Yr ydym i gyd, Coloniaid ac aelodau Warden fel ei gilydd, yn ymroddedig i Foxhole ac yn credu bod cyflwr presennol logisteg wedi dod yn fygythiad i iechyd cyffredinol y gêm.
 
@@ -32,7 +34,5 @@ Chwaraewyr yn dechrau cael eu lleddfu. Gofynnwn i'r datblygwyr ddarparu adborth 
 Nid oes gennym unrhyw awydd i amharu ar gydbwysedd y gêm, ac nid ydym ychwaith yn bwriadu gwneud y gêm yn llai ymgysylltu neu hwyl i unrhyw un. Ein nodau yw creu deialog iach rhwng y datblygwyr a ein cymuned, mwy o gadw chwaraewyr, a gwell profiad o chwarae gemau.
 
 Ar Ran ein Haelodau,<br>Sefydliad Logisteg ar gyfer Gwelliannau Cyffredinol (L.O.G.I.)
-
-[Discuss on Reddit](https://www.reddit.com/r/foxholegame/comments/rcnmgd/below_is_logis_open_letter_to_the_developers_with)
 
 Llofnodi, {{< include "openletter/signatures" >}}

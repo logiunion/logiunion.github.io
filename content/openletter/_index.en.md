@@ -2,6 +2,7 @@
 date = 2021-12-09
 title = "Open Letter"
 weight = 5
+reddit = "https://www.reddit.com/r/foxholegame/comments/rcnmgd/below_is_logis_open_letter_to_the_developers_with"
 +++
 ## Dear Siege Camp
 
@@ -45,7 +46,5 @@ or fun for anyone. Our goals are forging a healthy dialogue between the develope
 increased player retention, and an improved gameplay experience.
 
 On Behalf of our Members,<br>Logistics Organisation for General Improvements (L.O.G.I.)
-
-[Discuss on Reddit](https://www.reddit.com/r/foxholegame/comments/rcnmgd/below_is_logis_open_letter_to_the_developers_with)
 
 Signed, {{< include "openletter/signatures" >}}
