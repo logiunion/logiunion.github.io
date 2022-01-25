@@ -7,6 +7,6 @@ weight = 15
 
 {{< include "media/media" >}}
 
-## Missing a link or a video?
+## Brakuje linku lub filmu?
 
-Contact us via Discord or contact@logiunion.com
+Skontaktuj sie z nami przez Discorda lub contact@logiunion.com
