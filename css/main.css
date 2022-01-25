@@ -3999,3 +3999,8 @@ body.high-contrast #toTop {
 		right: 5%;
 	}
 }
+
+#letterhead {
+	text-align: center;
+	margin-top: -2em;
+}
