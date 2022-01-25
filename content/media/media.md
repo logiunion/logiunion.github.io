@@ -33,6 +33,7 @@ title = "media"
 * [GRY-Online.pl](https://www.gry-online.pl/newsroom/gracze-urzadzili-strajk-w-grze-wojennej-foxhole/z2211f8)
 * [MMORPG.org.pl](https://mmorpg.org.pl/news/zobacz/w-foxhole-gracze-zajmujacy-sie-logistyka-na-polu-bitwy-strajkuja)
 * [SpidersWeb.pl](https://spidersweb.pl/2022/01/foxhole-strajk-graczy.html)
+* [pl.IGN.com](https://pl.ign.com/foxhole/46342/news/strajk-graczy-w-grze-wojennej-foxhole-dostawcy-zaopatrzenia-wysuneli-swoje-postulaty)
 
 {{% /column %}}
 {{% column %}}
@@ -85,6 +86,7 @@ title = "media"
 
 ### Português
 * [MMORPGBR.com.br](http://mmorpgbr.com.br/grupo-de-players-inicia-uma-greve-no-mmo-foxhole-congelando-diversas-atividades-e-mandando-um-belo-recado-para-os-devs/)
+* [pt.IGN.com](https://pt.ign.com/foxhole/107967/news/jogadores-do-mmo-foxhole-organizaram-greve-no-jogo)
 
 {{% /column %}}
 {{% /row %}}
