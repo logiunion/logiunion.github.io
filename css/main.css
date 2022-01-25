@@ -3907,8 +3907,24 @@ input, select, textarea {
 	}
 }
 
-.translated {
-	font-size: 0.6em;
+.page-info {
+	font-size: 0.75em;
+	float: right;
+	display: flex;
+	flex-direction: column;
+}
+
+.page-info a {
+	border-bottom: none;
+}
+
+@media screen and (max-width: 900px) {
+	.page-info {
+		margin-top: -2em;
+		flex-direction: row;
+		justify-content: space-between;
+		float: none;
+	}
 }
 
 /**
