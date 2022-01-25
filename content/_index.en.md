@@ -6,6 +6,6 @@ title = "Get Involved"
 
 {{< youtube fv689YaplMo >}}
 
-{{< sectiontitle >}}Song's of the LOGI Union{{< /sectiontitle >}}
+{{< sectiontitle >}}Songs of the L.O.G.I. Union{{< /sectiontitle >}}
 
-{{< youtubeplaylist PLe5ETPkAQTrkyddpB7eqa9En28gSf21f4 "Song's of the LOGI Union Playlist" >}}
+{{< youtubeplaylist PLe5ETPkAQTrkyddpB7eqa9En28gSf21f4 "Songs of the L.O.G.I. Union Playlist" >}}

@@ -100,7 +100,7 @@ title = "media"
 {{< youtube FRiTMqblHf8 "loadingreadyrun - XBOX Series All || CheckPoint 463" 633 >}}
 <br/>
 
-{{< sectiontitle >}}Song's of the LOGI Union{{< /sectiontitle >}}
+{{< sectiontitle >}}Songs of the L.O.G.I. Union{{< /sectiontitle >}}
 
 {{< youtubeplaylist PLe5ETPkAQTrkyddpB7eqa9En28gSf21f4 >}}
 <br/>
