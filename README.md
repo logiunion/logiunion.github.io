@@ -14,7 +14,7 @@ https://github.com/gohugoio/hugo/releases/tag/v0.91.2
 
 hugo.exe --minify
 
-rsync -az public/ attrib@attrib.org:~/www/logi/
+rsync -az public/ xxx:~/www/logi/
 
 # local test
 
