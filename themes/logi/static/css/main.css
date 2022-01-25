@@ -3235,6 +3235,7 @@ input, select, textarea {
 		display: flex;
 		flex-direction: row;
 		align-items: center;
+		z-index: 1;
 	}
 
 		#nav input, #nav select, #nav textarea {
