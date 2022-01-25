@@ -1,0 +1,14 @@
+{{ define "main" }}
+
+<section class="main">
+    <section>
+<!--        <header class="main">-->
+<!--            {{ .Title }}-->
+<!--        </header>-->
+        {{ .Content }}
+    </section>
+</section>
+
+{{- partial "getInvolved.html" . -}}
+
+{{ end }}

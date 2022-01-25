@@ -1,0 +1,8 @@
+{{- with .Site.GetPage (.Get 0) -}}
+    {{- .Content | safeHTML -}}
+{{- end -}}
+{{- range .Page.Translations -}}
+{{- with .GetPage ($.Get 0) -}}
+{{- .Content | safeHTML -}}
+{{- end -}}
+{{- end -}}

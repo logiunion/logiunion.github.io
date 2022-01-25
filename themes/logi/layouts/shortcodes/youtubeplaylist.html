@@ -1,0 +1,7 @@
+<div class="col-12">
+    {{ if isset .Params 1}}{{index .Params 1}}{{ end }}
+    <div class="video-container">
+        <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list={{ index .Params 0 }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    <a href="https://www.youtube.com/playlist?list={{ index .Params 0 }}">Watch Playlist YouTube</a>
+</div>
