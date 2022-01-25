@@ -33,4 +33,6 @@ weight = 5
 
 代表我们的成员。<br>全面改善后勤组织（L.O.G.I.）
 
+[Discuss on Reddit](https://www.reddit.com/r/foxholegame/comments/rcnmgd/below_is_logis_open_letter_to_the_developers_with)
+
 签名者, {{< include "openletter/signatures" >}}

@@ -46,4 +46,6 @@ increased player retention, and an improved gameplay experience.
 
 On Behalf of our Members,<br>Logistics Organisation for General Improvements (L.O.G.I.)
 
+[Discuss on Reddit](https://www.reddit.com/r/foxholegame/comments/rcnmgd/below_is_logis_open_letter_to_the_developers_with)
+
 Signed, {{< include "openletter/signatures" >}}

@@ -33,4 +33,6 @@ Nid oes gennym unrhyw awydd i amharu ar gydbwysedd y gêm, ac nid ydym ychwaith 
 
 Ar Ran ein Haelodau,<br>Sefydliad Logisteg ar gyfer Gwelliannau Cyffredinol (L.O.G.I.)
 
+[Discuss on Reddit](https://www.reddit.com/r/foxholegame/comments/rcnmgd/below_is_logis_open_letter_to_the_developers_with)
+
 Llofnodi, {{< include "openletter/signatures" >}}

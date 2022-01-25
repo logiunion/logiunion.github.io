@@ -33,4 +33,6 @@ Foxhole内の他のシステムに加えられた変更の累積的な影響に�
 
 メンバーを代表して,,<br>Logistics Organisation for General Improvements (L.O.G.I.)
 
+[Discuss on Reddit](https://www.reddit.com/r/foxholegame/comments/rcnmgd/below_is_logis_open_letter_to_the_developers_with)
+
 署名, {{< include "openletter/signatures" >}}

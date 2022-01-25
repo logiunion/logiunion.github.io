@@ -33,4 +33,6 @@ Nous n’avons aucunement envie de déranger l'équilibre du jeu, ni de le rendr
 
 De la part de nos membres,<br>Logistics Organisation for General Improvements (L.O.G.I.)
 
+[Discuss on Reddit](https://www.reddit.com/r/foxholegame/comments/rcnmgd/below_is_logis_open_letter_to_the_developers_with)
+
 Sous-signes, {{< include "openletter/signatures" >}}

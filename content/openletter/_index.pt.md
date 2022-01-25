@@ -33,4 +33,6 @@ Nós não temos interesse em atrapalhar o balanceamento do jogo, nem queremos di
 
 Em nome dos nossos Membros,<br>Logistics Organization for General Improvement (L.O.G.I.), ou Organização Logística para Melhorias Gerais.
 
+[Discuss on Reddit](https://www.reddit.com/r/foxholegame/comments/rcnmgd/below_is_logis_open_letter_to_the_developers_with)
+
 Assinado, {{< include "openletter/signatures" >}}

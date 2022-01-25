@@ -29,4 +29,4 @@ at present, the following actions are the actions which our organisation have ag
 
 Finally, we do appreciate those of you who have shown solidarity on the reddit already. We encourage anyone else interested to get involved however they can. Together we can make Foxhole a better game and community.
 
-Source: [Reddit](https://www.reddit.com/r/foxholegame/comments/s1p7uz/a_message_to_the_wider_foxhole_community_from_logi/)
+[Discuss on Reddit](https://www.reddit.com/r/foxholegame/comments/s1p7uz/a_message_to_the_wider_foxhole_community_from_logi/)

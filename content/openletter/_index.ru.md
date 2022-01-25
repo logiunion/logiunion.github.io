@@ -33,4 +33,6 @@ weight = 5
 
 От лица наших членов,<br>Логистическая Организация за Генеральные Изменения (L.O.G.I.)
 
+[Discuss on Reddit](https://www.reddit.com/r/foxholegame/comments/rcnmgd/below_is_logis_open_letter_to_the_developers_with)
+
 Подписано, {{< include "openletter/signatures" >}}
