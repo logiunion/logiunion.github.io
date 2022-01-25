@@ -1,5 +1,5 @@
 +++
-title = "Media"
+title = "Медиа"
 weight = 15
 +++
 
@@ -7,6 +7,6 @@ weight = 15
 
 {{< include "media/media" >}}
 
-## Missing a link or a video?
+## Отсутствует ссылка или видео?
 
-Contact us via Discord or contact@logiunion.com
+Свяжитесь с нами в Discord или contact@logiunion.com
