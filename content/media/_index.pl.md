@@ -9,4 +9,4 @@ weight = 15
 
 ## Brakuje linku lub filmu?
 
-Skontaktuj sie z nami przez Discorda lub contact@logiunion.com
+Skontaktuj się z nami przez Discorda lub contact@logiunion.com
