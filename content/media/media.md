@@ -99,6 +99,9 @@ title = "media"
 {{< youtube fcHptiEE7nc "TheBlazingWolfie - The LOGI problem | Foxhole L.O.G.I Striking | Foxhole" >}}
 <br/>
 
+{{< youtube SPgqOfn7evc "TheBlazingWolfie - What are the L.O.G.I demands | Foxhole L.O.G.I Strike Explained | Foxhole" >}}
+<br/>
+
 {{< youtube FRiTMqblHf8 "loadingreadyrun - XBOX Series All || CheckPoint 463" 633 >}}
 <br/>
 
