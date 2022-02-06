@@ -1,10 +1,10 @@
 +++
-title = "Mission Statement"
+title = "Datganiad cenhadaeth"
 weight = 10
 translatedBy = "[SPECR] Daisuke"
 +++
 
-{{< sectiontitle >}} Mission Statement {{< /sectiontitle>}}
+{{< sectiontitle >}} Datganiad cenhadaeth {{< /sectiontitle>}}
 
 Mae'r Sefydliad Logisteg ar gyfer Gwelliant Cyffredinol yn grŵp a drefnir ac a yrrir gan y gymuned, a ffurfiwyd o rwystredigaeth hirsefydlog gyda'r agwedd at logisteg yn Foxhole.
 

@@ -1,6 +1,6 @@
 +++
 date = 2022-01-11
-title = "Strike Announcement"
+title = " Cyhoeddiad streic"
 weight = 20
 reddit = "https://www.reddit.com/r/foxholegame/comments/s1p7uz/a_message_to_the_wider_foxhole_community_from_logi/"
 translatedBy = "[SPECR] Daisuke"
