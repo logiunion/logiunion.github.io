@@ -7,6 +7,6 @@ weight = 15
 
 {{< include "media/media" >}}
 
-## Missing a link or a video?
+## Methu dolen neu fideo?
 
-Contact us via Discord or contact@logiunion.com
+Cysylltwch â ni trwy Discord neu (cysylltwch â hyperddolen e-bost undeb logi)
