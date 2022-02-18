@@ -7,7 +7,7 @@ title = "media"
 
 ### English
 
-* [NME.com](https://www.nme.com/news/gaming-news/foxhole-players-launch-organised-in-game-strike-to-demand-change-3138320)
+* [NME.com](https://www.nme.com/news/gaming-news/foxhole-players-launch-organised-in-game-strike-to-demand-change-3138320) | [Longer and more detailed article](https://www.nme.com/features/gaming-features/how-a-logistics-strike-in-foxhole-created-a-war-like-no-other-3163884) (**new**)
 * [Kotaku.com](https://kotaku.com/foxhole-players-are-striking-over-increased-stress-and-1848370043)
 * [EuroGamer.net](https://www.eurogamer.net/articles/2022-01-17-1800-players-refuse-to-restock-frontline-of-wartime-mmo-foxhole-in-protest-over-state-of-game)
 * [GamePressure.com](https://www.gamepressure.com/newsroom/foxhole-players-staged-strike/zb3f0b)
