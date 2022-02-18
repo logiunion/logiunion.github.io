@@ -3,7 +3,7 @@ date = 2021-12-09
 title = "List otwarty"
 weight = 5
 reddit = "https://www.reddit.com/r/foxholegame/comments/rcnmgd/below_is_logis_open_letter_to_the_developers_with"
-translatedBy = "[19th] Stalek"
+translatedBy = "[=FSL=] Stalek"
 +++
 ## Drogi Siege Camp,
 

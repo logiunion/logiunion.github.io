@@ -1,7 +1,7 @@
 +++
 title = "Nasze cele"
 weight = 10
-translatedBy = "[19th] Stalek"
+translatedBy = "[=FSL=] Stalek"
 +++
 
 {{< sectiontitle >}} Nasze cele {{< /sectiontitle>}}
