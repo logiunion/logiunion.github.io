@@ -8,8 +8,10 @@ JoinDiscord:
   other: Join L.O.G.I. Discord
 TakeSurvey:
   other: Fill out survey
+TakeSurveyUIUX:
+  other: Fill out UI/UX feedback form
 SurveyLink:
-  other: https://docs.google.com/forms/d/e/1FAIpQLSeqspOFXUKgUm4Bm5kze859903TA-E1EC_WOCcCRQxdmfOyUg/viewform
+  other: https://forms.gle/qmxXJ2HEzbRRK3NU6
 Email:
   other: Email
 WatchOnYouTube:
