@@ -2,6 +2,7 @@
 title = "参加する"
 +++
 
-{{< sectiontitle >}}Roundtable{{< /sectiontitle>}}
+[//]: # ({{< sectiontitle >}}Roundtable{{< /sectiontitle>}})
 
-{{< youtube fv689YaplMo >}}
+[//]: # ()
+[//]: # ({{< youtube fv689YaplMo >}})

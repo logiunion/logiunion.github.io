@@ -2,6 +2,7 @@
 title = "Participer"
 +++
 
-{{< sectiontitle >}}Conférence{{< /sectiontitle>}}
+[//]: # ({{< sectiontitle >}}Conférence{{< /sectiontitle>}})
 
-{{< youtube fv689YaplMo >}}
+[//]: # ()
+[//]: # ({{< youtube fv689YaplMo >}})

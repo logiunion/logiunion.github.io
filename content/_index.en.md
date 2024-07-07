@@ -2,9 +2,9 @@
 title = "Get Involved"
 +++
 
-{{< sectiontitle >}}Roundtable{{< /sectiontitle>}}
-
-{{< youtube fv689YaplMo >}}
+[//]: # ({{< sectiontitle >}}Roundtable{{< /sectiontitle>}})
+[//]: # ()
+[//]: # ({{< youtube fv689YaplMo >}})
 
 {{< sectiontitle >}}Songs of the L.O.G.I. Union{{< /sectiontitle >}}
 

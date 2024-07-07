@@ -1,6 +1,6 @@
 +++
 date = 2021-12-09
-title = "Lettera aperta"
+title = "Lettera aperta 2021"
 weight = 5
 reddit = "https://www.reddit.com/r/foxholegame/comments/rcnmgd/below_is_logis_open_letter_to_the_developers_with"
 translatedBy = "[ITA] JakkoNexus"

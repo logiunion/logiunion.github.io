@@ -2,6 +2,7 @@
 title = "Cymryd rhan"
 +++
 
-{{< sectiontitle >}}Bord gorn{{< /sectiontitle>}}
+[//]: # ({{< sectiontitle >}}Bord gorn{{< /sectiontitle>}})
 
-{{< youtube fv689YaplMo >}}
+[//]: # ()
+[//]: # ({{< youtube fv689YaplMo >}})

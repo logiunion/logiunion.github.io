@@ -2,9 +2,10 @@
 title = "Участвовать"
 +++
 
-{{< sectiontitle >}}"Круглый стол"{{< /sectiontitle>}}
+[//]: # ({{< sectiontitle >}}"Круглый стол"{{< /sectiontitle>}})
 
-{{< youtube fv689YaplMo >}}
+[//]: # ()
+[//]: # ({{< youtube fv689YaplMo >}})
 
 {{< sectiontitle >}}Песни Союза L.O.G.I.{{< /sectiontitle >}}
 

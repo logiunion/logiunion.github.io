@@ -2,6 +2,7 @@
 title = "Forma parte"
 +++
 
-{{< sectiontitle >}}Mesa Redonda{{< /sectiontitle>}}
+[//]: # ({{< sectiontitle >}}Mesa Redonda{{< /sectiontitle>}})
 
-{{< youtube fv689YaplMo >}}
+[//]: # ()
+[//]: # ({{< youtube fv689YaplMo >}})

@@ -2,6 +2,7 @@
 title = "Bli involvert"
 +++
 
-{{< sectiontitle >}}Konferanse{{< /sectiontitle>}}
+[//]: # ({{< sectiontitle >}}Konferanse{{< /sectiontitle>}})
 
-{{< youtube fv689YaplMo >}}
+[//]: # ()
+[//]: # ({{< youtube fv689YaplMo >}})
